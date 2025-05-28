@@ -1,0 +1,8 @@
+json{
+  "name": "mae-api-client",
+  "version": "1.0.0",
+  "description": "Cliente para API MAE Market Data",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
