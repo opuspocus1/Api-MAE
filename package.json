@@ -1,5 +1,5 @@
 {
-  "name": "mae-api-client",
+  "name": "index",
   "version": "1.0.0",
   "description": "Cliente para API MAE Market Data",
   "dependencies": {
